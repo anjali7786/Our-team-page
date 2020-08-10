@@ -40,7 +40,7 @@ a{
 
 .team .card{
 	width:33%;
-	height:23rem;
+	height:30rem;
 	border-radius:5%;
 	float: left;
 	background-color: #2d3035;
@@ -60,7 +60,7 @@ a{
 	box-shadow:0px 0px 40px black;
 }
 .team .card .box img{
-	width:100px;
+	width:150px;
 	object-fit: cover;
 	display: block;
 	margin:10px auto;
@@ -113,7 +113,7 @@ i{
 		width:50%;
 		margin-bottom:1rem;
 		padding:0px 8px;
-		height:23rem;
+		height:30rem;
 	}
 
 }
@@ -123,7 +123,7 @@ i{
 		width:100%;
 		margin-bottom:1rem;
 		padding:0px 4px;
-		height:23rem;
+		height:30rem;
 	}
 }
 
